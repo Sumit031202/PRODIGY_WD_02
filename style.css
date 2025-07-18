@@ -45,3 +45,11 @@ body{
 #Stop{
     background-color: rgb(232, 30, 30);
 }
+
+@media only screen and (max-width: 500px) {
+  .container {
+    width: 90%;
+    font-size: 35px;
+  }
+}
+
