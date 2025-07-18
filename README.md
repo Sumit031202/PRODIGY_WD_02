@@ -22,7 +22,7 @@ This is a simple and responsive Stopwatch built using **HTML**, **CSS**, and **J
 ## 👨‍💻 Developer
 **Sumit Burnwal**
 - [GitHub](https://github.com/Sumit031202)
-- [LinkedIn](https://www.linkedin.com/in/sumitburnwal)
+- [LinkedIn](https://www.linkedin.com/in/sumit-burnwal-15ba6625a/)
 
 ## 📌 Note
 This task was submitted as part of **PRODIGY_WD_02** for the Web Development Internship at **Prodigy InfoTech**.
